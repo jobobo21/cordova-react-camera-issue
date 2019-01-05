@@ -14,5 +14,5 @@ Sample project in order to highlight issue with controlling cordova camera plugi
 ## To Make Changes to react
   npm run build
 
-## To make run in browser for debugging
+## To run in browser for debugging
   npm start
